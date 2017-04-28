@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Vidly",
+    "\\Vidly\\App_Data",
+    "\\Vidly\\Controllers",
+    "\\Vidly\\Models",
+    "\\Vidly\\Views",
+    "\\Vidly\\Views\\Customers",
+    "\\Vidly\\Views\\Home",
+    "\\Vidly\\Views\\Manage"
+  ],
+  "PreviewInSolutionExplorer": false
+}
