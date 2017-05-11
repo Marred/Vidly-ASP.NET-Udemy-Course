@@ -241,3 +241,4 @@ C:\Users\necho\Documents\GitHub\Vidly-ASP.NET-Udemy-Course\Vidly\Vidly\obj\Debug
 C:\Users\necho\Documents\GitHub\Vidly-ASP.NET-Udemy-Course\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddedBirthdateToCustomer.resources
 C:\Users\necho\Documents\GitHub\Vidly-ASP.NET-Udemy-Course\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMovieGenres.resources
 C:\Users\necho\Documents\GitHub\Vidly-ASP.NET-Udemy-Course\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateGenres.resources
+C:\Users\necho\Documents\GitHub\Vidly-ASP.NET-Udemy-Course\Vidly\Vidly\obj\Debug\Vidly.Migrations.DBSetUpdated.resources
